@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SpyWeb</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Live All Cricket TV</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="software">About</string>
+    <string name="videos">Espncricinfo</string>
+    <string name="home">Home</string>
+    <string name="android">Live Tv</string>
+    <string name="idea_soft_apps">This site only contains links and embeds to TV channels from 3rd party sites .
+        Which are freely available on all Internet. We not responsible for their content.
+        You can file Copyright Infringement Notification directly by writing to  YouTube, crictime, Ustream etc.
+        This site is designed to enable users of personal computers and other consumer electronic devices to easily
+        find and access media content over the Internet.If you make use of this site you agree to respect the rights of the content owners.
+        All content is copyright of their respective owners.</string>
+    <string name="about_app">About App</string>
+    <string name="refresh">Refresh</string>
+    <string name="share_app">Share App</string>
+</resources>
